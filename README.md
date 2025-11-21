@@ -25,6 +25,5 @@ I am involved as a scientific researcher, contributing to:
 Demirel, H., Koçyiğit, A., Alpagut, B., & Muhcu, D. (2025b). Evaluating the solar energy potential for Positive Energy Districts (PED) through advanced 3D Geographic Information System (GIS) analysis. Open Research Europe, 5, 81. https://doi.org/10.12688/openreseurope.19075.2
 
 
-<img width="624" height="233" alt="image" src="https://github.com/user-attachments/assets/1b30b683-5496-48f6-9f18-e016bba1a7f3" />
 
 
